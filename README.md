@@ -4,9 +4,8 @@
 It has all the running code
 <br>
 Run it and the game will run 
-<br>
-(The only file that has the code i have written, Rest All are just for SFML library added by default after setting up SFML for codeblocks)<br>
-<br>
+
+## Game Screenshots
 
 ![image](https://user-images.githubusercontent.com/42890838/100061776-9234da80-2e54-11eb-9124-96ef4faa217b.png)
 
